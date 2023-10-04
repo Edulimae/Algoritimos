@@ -6,7 +6,7 @@
 
 ultimo = 1
 penultimo = 1
-for f in range(1,15):
+for f in range(1,11):
     if f == 1 or f == 2:
         print(1)
     else:

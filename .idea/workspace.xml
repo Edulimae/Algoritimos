@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 08">
-      <change afterPath="$PROJECT_DIR$/Aula07/ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07/ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07/ex04 com while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07/ex04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07/ex07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/ex01.py" afterDir="false" />
+    <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 07">
+      <change beforePath="$PROJECT_DIR$/Aula07/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/ex07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Edulimae&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e21c361a-679e-4035-bc98-4450c36edad3" />
+        <option name="url" value="https://github.com/Edulimae/Algoritimos.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -85,11 +85,47 @@
       <option name="project" value="LOCAL" />
       <updated>1696365184374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aula 07">
+      <option name="closed" value="true" />
+      <created>1696421585997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421585997</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aula 07">
+      <option name="closed" value="true" />
+      <created>1696421601540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421601540</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aula 07">
+      <option name="closed" value="true" />
+      <created>1696421757911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421757911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aula 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 08" />
+    <MESSAGE value="aula 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula 07" />
   </component>
 </project>
