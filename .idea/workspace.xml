@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 08" />
+    <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 08">
+      <change afterPath="$PROJECT_DIR$/Aula07/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07/ex04 com while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula07/ex07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/ex01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Edulimae"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Edulimae&quot;
   }
+}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2VxMz0kLL5l5wolpE4xUyXCPq56" />
   <component name="ProjectLevelVcsManager">
@@ -34,12 +45,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +69,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696364940699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aula 08">
+      <option name="closed" value="true" />
+      <created>1696365008122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696365008122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aula 08">
+      <option name="closed" value="true" />
+      <created>1696365184374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696365184374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
