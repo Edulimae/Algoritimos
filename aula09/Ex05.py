@@ -10,7 +10,7 @@ for _ in range (6000):
 p=[0]*7
 for i in range(1,7):
     p[i] = (lista[i] / 6000) * 100
-    print(f'{i} - {p[i]:.2f}% - ')#{lista[i]}')
+    print(f'{i} - {p[i]:.2f}% - {lista[i]} vezes')
 
 
 
