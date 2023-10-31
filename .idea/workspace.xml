@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 11">
-      <change afterPath="$PROJECT_DIR$/aula11/Exercicio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula11/Exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/Exercicio003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/Exercicio03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/Exercico03a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/exemplo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algoritimos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algoritimos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algoritimos" />
@@ -229,6 +234,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="aula 08" />
     <MESSAGE value="aula 07" />
     <MESSAGE value="aula 11" />
