@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48a777a-ace8-4d49-82ae-db5fadddddd6" name="Changes" comment="aula 11">
-      <change afterPath="$PROJECT_DIR$/aula12/Exercicio003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula12/Exercicio03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula12/Exercico03a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula12/exemplo01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algoritimos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algoritimos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exemplo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exemplo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exemplo03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exercicio01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exercicio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exercicio07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/Exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula13/funcoes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/Exercicio003.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula12/Exercicio003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +60,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Alunos/Desktop/Trabalhos/Algoritimos/Aula13",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alunos\Desktop\Trabalhos\Algoritimos\Aula13" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algoritimos" />
